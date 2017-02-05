@@ -1,0 +1,7 @@
+ln[17] lists start at 0
+For list you have to know the index, for dictionary every "key" has to be unique
+Dictionary is also unordered
+Tuples are not meant to be changed
+To save figure make sure to do plt.show() after the savefig function, default folder will be to where it saves
+
+

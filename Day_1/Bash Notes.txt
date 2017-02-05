@@ -1,0 +1,2 @@
+First do "pwd" to see where you are on the directory
+Whatever it pulls up, type in the next folder to your location and keep doing until you get to the right path
